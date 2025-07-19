@@ -57,9 +57,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
       // редирект
       if (selectedLang === 'en') {
-        window.location.href = '/';
+        window.location.href = 'https://rmk-kk.github.io/kostya_website/';
       } else {
-        window.location.href = '/' + selectedLang + '/';
+        window.location.href = 'https://rmk-kk.github.io/kostya_website/' + selectedLang + '/';
       }
     });
   });
