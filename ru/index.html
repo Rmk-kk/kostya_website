@@ -10,7 +10,7 @@
     <script>
       (function () {
         const path = window.location.pathname;
-        if (path.startsWith("/fi") || path.startsWith("/ru")) {
+        if (path.startsWith("https://rmk-kk.github.io/kostya_website/fi") || path.startsWith("https://rmk-kk.github.io/kostya_website/ru")) {
           return;
         }
 
@@ -18,9 +18,9 @@
         const lower = lang.toLowerCase();
 
         if (lower.startsWith("fi")) {
-          window.location.replace("/fi/");
+          window.location.replace("https://rmk-kk.github.io/kostya_website/fi/");
         } else if (lower.startsWith("ru")) {
-          window.location.replace("/ru/");
+          window.location.replace("https://rmk-kk.github.io/kostya_website/ru/");
         } else {
         }
       })();
