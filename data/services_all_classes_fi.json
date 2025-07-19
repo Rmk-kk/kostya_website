@@ -1,0 +1,741 @@
+[
+  {
+    "id": 1,
+    "name": "TOUKOKUUN TARJOUS AUTON VALMISTELUUN",
+    "description": [
+      "Perusteellinen auton korin pesu",
+      "Perusteellinen sisätilojen siivous",
+      "Kevyt kiiltokiillotus",
+      "Keraaminen pinnoite suojaa 1 vuoden ajan",
+      "Normaali hinta: 1500 €",
+      "Tarjous voimassa 31. toukokuuta asti!"
+    ],
+    "class_price_1": 575,
+    "class_price_2": 575,
+    "class_price_3": 600,
+    "class_price_4": 625,
+    "class_price_5": 650,
+    "class_price_6": 675
+  },
+  {
+    "id": 2,
+    "name": "TAVALLINEN ULKOPESU",
+    "description": [
+      "Esikosketukseton korin pesu",
+      "Bitumin ja suolan liotus",
+      "Helläkätinen pesu shampoolla",
+      "Ovien kynnysten/aukkojen, äänenvaimentimien pesu",
+      "Vanteiden pesu (etuosa)",
+      "Pikavahan levitys korille",
+      "Korin kuivaus pehmeällä mikrokuitupyyhkeellä ja ilmalla",
+      "Matot pestään/puhdistetaan",
+      "Renkaiden mustaus",
+      "Ulkolasien pyyhintä"
+    ],
+    "class_price_1": 53,
+    "class_price_2": 56,
+    "class_price_3": 59,
+    "class_price_4": 65,
+    "class_price_5": 70,
+    "class_price_6": 75
+  },
+  {
+    "id": 3,
+    "name": "PREMIUM ULKOPESU",
+    "description": [
+      "Kaksinkertainen esikosketukseton korin pesu",
+      "Bitumin ja suolan liotus",
+      "Helläkätinen pesu shampoolla",
+      "Ovien kynnysten/aukkojen, äänenvaimentimien pesu",
+      "Päivittäisen bitumin poisto",
+      "Vanteiden pesu (etuosa)",
+      "Suojaavan vahan levitys/suojapinnoitteen ylläpito",
+      "Korin täydellinen kuivaus pehmeällä mikrokuitupyyhkeellä ja kuumalla ilmalla/turbokuivauksella",
+      "Matot pestään/puhdistetaan",
+      "Renkaiden mustaus Tire Expressillä",
+      "Ulkolasien pyyhintä"
+    ],
+    "class_price_1": 92,
+    "class_price_2": 92,
+    "class_price_3": 92,
+    "class_price_4": 100,
+    "class_price_5": 113,
+    "class_price_6": 122
+  },
+  {
+    "id": 4,
+    "name": "PERUSTEELLINEN ULKOPESU",
+    "description": [
+      "Kaksinkertainen esikosketukseton korin pesu",
+      "Bitumin ja suolan liotus",
+      "Helläkätinen pesu shampoolla, siveltimiä käyttäen",
+      "Ovien kynnysten/aukkojen, pyöränkoteloiden, äänenvaimentimien pesu",
+      "Bitumin, suolan poisto korista, ovien aukoista ja vanteiden etuosasta",
+      "Metallisten epäpuhtauksien (keltaisten pisteiden) poisto",
+      "Vanteiden puhdistus (etuosa)",
+      "WetCoat Essence -suojavahan levitys/suojapinnoitteen ylläpito",
+      "Korin täydellinen kuivaus pehmeällä mikrokuitupyyhkeellä ja kuumalla ilmalla/turbokuivauksella",
+      "Matot pestään/puhdistetaan",
+      "Renkaiden mustaus Tire-tuotteella",
+      "Ulkolasien puhdistus tahnalla"
+    ],
+    "class_price_1": 150,
+    "class_price_2": 150,
+    "class_price_3": 150,
+    "class_price_4": 164,
+    "class_price_5": 186,
+    "class_price_6": 195
+  },
+  {
+    "id": 5,
+    "name": "LISÄLIOTUS",
+    "description": [],
+    "class_price_1": 6,
+    "class_price_2": 6,
+    "class_price_3": 6,
+    "class_price_4": 6,
+    "class_price_5": 7,
+    "class_price_6": 7
+  },
+  {
+    "id": 6,
+    "name": "LISÄBITUMIN LIOTUS",
+    "description": [],
+    "class_price_1": 11,
+    "class_price_2": 11,
+    "class_price_3": 11,
+    "class_price_4": 11,
+    "class_price_5": 12,
+    "class_price_6": 14
+  },
+  {
+    "id": 7,
+    "name": "NESTEMÄINEN VAHA Q2M WetCoat",
+    "description": [
+      "Lisäpalvelu valittuun pesuun",
+      "Antaa hydrofobisia ominaisuuksia ja kiiltoa",
+      "Kestävyys jopa 12 viikkoa"
+    ],
+    "class_price_1": 53,
+    "class_price_2": 53,
+    "class_price_3": 53,
+    "class_price_4": 55,
+    "class_price_5": 60,
+    "class_price_6": 65
+  },
+  {
+    "id": 8,
+    "name": "MOOTTORIN YKSITYISKOHTAINEN PESU",
+    "description": [
+      "Lisäpalvelu valittuun pesuun",
+      "Moottorin pesu erityisellä dielektrisellä aineella",
+      "Moottoritilan puhdistus",
+      "Perusteellinen kuivaus",
+      "Moottoritilan säilöntä"
+    ],
+    "class_price_1": 185,
+    "class_price_2": 185,
+    "class_price_3": 185,
+    "class_price_4": 195,
+    "class_price_5": 210,
+    "class_price_6": 230
+  },
+  {
+    "id": 9,
+    "name": "TAVALLINEN SISÄTILOJEN SIIVOUS",
+    "description": [
+      "Koko sisätilojen imurointi",
+      "Kaikkien sisäpintojen pyyhintä erityisellä aineella",
+      "Matot puhdistetaan",
+      "VAIHTOEHDOT:",
+      "Kolmen etulasin pyyhintä sisäpuolelta",
+      "Kaikkien sisälasien pyyhintä, mukaan lukien kattoluukku/panoraama",
+      "Tavaratilan ja lokeroiden imurointi",
+      "Kaikkien sisäpintojen pyyhintä erityisellä antibakteerisella aineella",
+      "Voimakkaat tahrat ja lemmikkien karvat laskutetaan erikseen"
+    ],
+    "class_price_1": 43,
+    "class_price_2": 43,
+    "class_price_3": 43,
+    "class_price_4": 47,
+    "class_price_5": 54,
+    "class_price_6": 57
+  },
+  {
+    "id": 10,
+    "name": "PREMIUM SISÄTILOJEN SIIVOUS",
+    "description": [
+      "Koko sisätilojen esikimurointi",
+      "Sisätilojen puhdistus erityisellä aineella, siveltimiä ja ilmaa käyttäen",
+      "Polkimien ja poljintilan puhdistus",
+      "Koko sisätilojen tarkistusimurointi",
+      "Nahkasisustan pyyhintä",
+      "Matot puhdistetaan",
+      "VAIHTOEHDOT:",
+      "Kolmen etulasin pyyhintä sisäpuolelta",
+      "Kaikkien sisälasien pyyhintä, mukaan lukien kattoluukku/panoraama",
+      "Tavaratilan ja lokeroiden imurointi",
+      "Kaikkien sisäpintojen pyyhintä erityisellä antibakteerisella aineella",
+      "Voimakkaat tahrat ja lemmikkien karvat laskutetaan erikseen"
+    ],
+    "class_price_1": 81,
+    "class_price_2": 81,
+    "class_price_3": 81,
+    "class_price_4": 88,
+    "class_price_5": 100,
+    "class_price_6": 110
+  },
+  {
+    "id": 11,
+    "name": "PERUSTEELLINEN SISÄTILOJEN SIIVOUS",
+    "description": [
+      "Koko sisätilojen, tavaratilan ja tavaratilan lokeroiden esikimurointi",
+      "Kaikkien sisäosien puhdistus Tornadorilla",
+      "Polkimien ja poljintilan puhdistus",
+      "Kaikkien sisä-, tavaratila- ja lokeropintojen syväpuhdistus siveltimiä ja ilmaa käyttäen",
+      "Nahkasisustan pyyhintä",
+      "Koko sisätilojen ja tavaratilan tarkistusimurointi",
+      "Kaikkien sisälasien perusteellinen puhdistus, mukaan lukien kattoluukku/panoraama",
+      "Matot puhdistetaan",
+      "VAIHTOEHDOT:",
+      "Kaikkien sisäpintojen pyyhintä erityisellä antibakteerisella aineella",
+      "Voimakkaat tahrat ja lemmikkien karvat laskutetaan erikseen"
+    ],
+    "class_price_1": 150,
+    "class_price_2": 150,
+    "class_price_3": 150,
+    "class_price_4": 164,
+    "class_price_5": 186,
+    "class_price_6": 195
+  },
+  {
+    "id": 12,
+    "name": "TAVALLINEN NAHKASISUSTAN PUHDISTUS JA HOITO",
+    "description": [
+      "Lisäpalvelu SISÄTILOJEN SIIVOUKSEEN",
+      "Viisi istuinta, keskikyynärnoja, ohjauspyörä",
+      "Perusteellinen nahkasisustan puhdistus",
+      "Nahkasisustan käsittely säilöntä- ja suoja-aineilla",
+      "VAIHTOEHDOT:",
+      "Kolmas istuinrivi",
+      "Premium-suojausvoide",
+      "Antibakteerinen suojausvoide"
+    ],
+    "class_price_1": 107,
+    "class_price_2": 107,
+    "class_price_3": 107,
+    "class_price_4": 120,
+    "class_price_5": 135,
+    "class_price_6": 145
+  },
+  {
+    "id": 13,
+    "name": "PREMIUM NAHKASISUSTAN PUHDISTUS JA HOITO",
+    "description": [
+      "Lisäpalvelu SISÄTILOJEN SIIVOUKSEEN",
+      "Viisi istuinta, keskikyynärnoja, ohjauspyörä, kojelauta, ovipaneelit",
+      "Perusteellinen nahkasisustan puhdistus",
+      "Nahkasisustan käsittely premium-säilöntä- ja suoja-aineilla",
+      "VAIHTOEHDOT:",
+      "Kolmas istuinrivi",
+      "Katonahan hoito",
+      "Tavaratilan nahan hoito"
+    ],
+    "class_price_1": 161,
+    "class_price_2": 161,
+    "class_price_3": 161,
+    "class_price_4": 176,
+    "class_price_5": 200,
+    "class_price_6": 215
+  },
+  {
+    "id": 14,
+    "name": "ANTIBAKTEERINEN NAHKASISUSTAN PUHDISTUS JA HOITO",
+    "description": [
+      "Lisäpalvelu SISÄTILOJEN SIIVOUKSEEN",
+      "Viisi istuinta, keskikyynärnoja, ohjauspyörä, kojelauta, ovipaneelit",
+      "Perusteellinen nahkasisustan puhdistus",
+      "Käsittely antibakteerisilla säilöntä- ja suoja-aineilla",
+      "VAIHTOEHDOT:",
+      "Kolmas istuinrivi",
+      "Katonahan hoito",
+      "Tavaratilan nahan hoito"
+    ],
+    "class_price_1": 184,
+    "class_price_2": 184,
+    "class_price_3": 184,
+    "class_price_4": 200,
+    "class_price_5": 227,
+    "class_price_6": 245
+  },
+  {
+    "id": 15,
+    "name": "TAVALLINEN KERAAMINEN NAHKASISUSTAN SUOJAUS",
+    "description": [
+      "Uusi auto. Viisi istuinta, keskikyynärnoja, ohjauspyörä",
+      "Pinnan valmistelu suojapinnoitteen levitykseen",
+      "Keraamisen säilöntäaineen levitys nahkasisustaan",
+      "Suoja kestää jopa 6 kuukautta",
+      "VAIHTOEHTO: Kolmas istuinrivi"
+    ],
+    "class_price_1": 235,
+    "class_price_2": 235,
+    "class_price_3": 235,
+    "class_price_4": 255,
+    "class_price_5": 285,
+    "class_price_6": 310
+  },
+  {
+    "id": 16,
+    "name": "PAIKALLINEN KEMIALLINEN PUHDISTUS / 1 ISTUIN",
+    "description": [],
+    "class_price_1": 84,
+    "class_price_2": 84,
+    "class_price_3": 84,
+    "class_price_4": 92,
+    "class_price_5": 105,
+    "class_price_6": 115
+  },
+  {
+    "id": 17,
+    "name": "SISÄTILOJEN KEMIALLINEN PUHDISTUS",
+    "description": [],
+    "class_price_1": 400,
+    "class_price_2": 400,
+    "class_price_3": 400,
+    "class_price_4": 440,
+    "class_price_5": 480,
+    "class_price_6": 520
+  },
+  {
+    "id": 18,
+    "name": "HAJUJEN POISTO JA AUTON SISÄTILOJEN TUOKSUTUS - KUIVA SUMU",
+    "description": [
+      "Lisäpalvelu PERUSTEELLISEEN SISÄTILOJEN SIIVOUKSEEN",
+      "Teknologia, joka täyttää koko sisätilan erityisellä höyryllä, joka tunkeutuu kaikkiin rakoihin, istuinverhoiluun, onteloihin ja muihin paikkoihin, hajottaen ja täysin poistaen pysyvät hajut",
+      "Perusteellisen tuuletuksen jälkeen auto tuoksuu raikkaalta ja säilyttää tämän puhtaan tilan pitkään"
+    ],
+    "class_price_1": 55,
+    "class_price_2": 55,
+    "class_price_3": 55,
+    "class_price_4": 55,
+    "class_price_5": 60,
+    "class_price_6": 65
+  },
+  {
+    "id": 19,
+    "name": "AVOAUTON KATON KÄSITTELY",
+    "description": [
+      "Lisäpalvelu valittuun pesuun",
+      "Katon, katon säilytystilan ja viereisen alueen pesu ja kuivaus",
+      "Taittomekanismin puhallus, kumitiivisteiden ja muoviosien käsittely säilöntäaineella",
+      "Vettä hylkivän suojakyllästysaineen levitys pehmeään kattoon",
+      "Kestävyys jopa 6 kuukautta"
+    ],
+    "class_price_1": 175,
+    "class_price_2": 175,
+    "class_price_3": 175,
+    "class_price_4": 190,
+    "class_price_5": 215,
+    "class_price_6": 235
+  },
+  {
+    "id": 20,
+    "name": "VETTÄHYLKIVÄ LASIEN KÄSITTELY (TUULILASI + 2 OVEA)",
+    "description": [
+      "Lisäpalvelu valittuun pesuun",
+      "Kvartsipohjainen 'vettä hylkivä' suojapinnoite laseille, tarjoaa tehokkaita vesi- ja likaahylkiviä ominaisuuksia",
+      "Vedet valuvat pois pinnalta nopeasti, parantaen näkyvyyttä huomattavasti jopa rankkasateessa",
+      "Talvella muodostuva jää ei tartu ja on helppo poistaa",
+      "Tuulilasi + 2 ovea",
+      "Kestävyys jopa 12 kuukautta"
+    ],
+    "class_price_1": 100,
+    "class_price_2": 100,
+    "class_price_3": 100,
+    "class_price_4": 105,
+    "class_price_5": 115,
+    "class_price_6": 125
+  },
+  {
+    "id": 21,
+    "name": "VETTÄHYLKIVÄ LASIEN KÄSITTELY (KAIKKI LASIT)",
+    "description": [
+      "Lisäpalvelu valittuun pesuun",
+      "Kvartsipohjainen 'vettä hylkivä' suojapinnoite laseille, tarjoaa tehokkaita vesi- ja likaahylkiviä ominaisuuksia",
+      "Vedet valuvat pois pinnalta nopeasti, parantaen näkyvyyttä huomattavasti jopa rankkasateessa",
+      "Talvella muodostuva jää ei tartu ja on helppo poistaa",
+      "Kaikki lasit",
+      "Kestävyys jopa 12 kuukautta"
+    ],
+    "class_price_1": 180,
+    "class_price_2": 180,
+    "class_price_3": 180,
+    "class_price_4": 190,
+    "class_price_5": 205,
+    "class_price_6": 225
+  },
+  {
+    "id": 22,
+    "name": "KEVYT (PUHDISTAVA) KORIN KIILLOTUS 1 VAIHEESSA",
+    "description": [],
+    "class_price_1": 140,
+    "class_price_2": 140,
+    "class_price_3": 140,
+    "class_price_4": 160,
+    "class_price_5": 170,
+    "class_price_6": 190
+  },
+  {
+    "id": 23,
+    "name": "KIILLON PALAUTUS, KORIN KIILLOTUS 1 VAIHEESSA",
+    "description": [
+      "Hieno maalin palautus käyttämällä häikäisynestoaineita, jotka poistavat hienoimpia naarmuja, antaen maalipinnalle syvän kiillon"
+    ],
+    "class_price_1": 340,
+    "class_price_2": 340,
+    "class_price_3": 340,
+    "class_price_4": 360,
+    "class_price_5": 380,
+    "class_price_6": 400
+  },
+  {
+    "id": 24,
+    "name": "KESKITASOINEN (KORJAAVA) KORIN KIILLOTUS 2 VAIHEESSA",
+    "description": [
+      "Keskitasoisen (korjaavan) korin kiillotuksen aikana poistetaan: pienet ja keskisuuret naarmut korin pesusta; hologrammikuviot tehdas- tai huonolaatuisesta autotalli-/maalauskiillotuksesta; kuivuneiden hyönteisten jäljet; lintujen ulosteiden jäljet; happamien syövyttävien aineiden jäljet",
+      "Korjaavan kiillotuksen jälkeen naarmuuntunut kori on vapaa sameuksista, hankausjäljistä ja kaikista pienistä naarmuista",
+      "Auto saa eloisan ulkonäön"
+    ],
+    "class_price_1": 700,
+    "class_price_2": 700,
+    "class_price_3": 700,
+    "class_price_4": 800,
+    "class_price_5": 800,
+    "class_price_6": 800
+  },
+  {
+    "id": 25,
+    "name": "TÄYDELLINEN HIOMAKIILLOTUS (PALAUTTAVA) KORIN KIILLOTUS 3 VAIHEESSA",
+    "description": [
+      "Täydellinen hiomakäsittely palauttava korin kiillotus",
+      "Palauttavan korin kiillotuksen pääperiaatteet: poistaa useimmat naarmut (mutta vain ne, jotka eivät vähennä maalin paksuutta kriittiselle tasolle); saavuttaa kirkas ja hologrammiton lopputulos"
+    ],
+    "class_price_1": 1200,
+    "class_price_2": 1200,
+    "class_price_3": 1200,
+    "class_price_4": 1300,
+    "class_price_5": 1300,
+    "class_price_6": 1300
+  },
+  {
+    "id": 26,
+    "name": "ETUVALOJEN TAI TAKAVALOJEN KIILLOTUS / PARI",
+    "description": [],
+    "class_price_1": 85,
+    "class_price_2": 85,
+    "class_price_3": 85,
+    "class_price_4": 92,
+    "class_price_5": 104,
+    "class_price_6": 110
+  },
+  {
+    "id": 27,
+    "name": "SUOJAVAHAPINNOITE",
+    "description": [
+      "Pinnoitus kestävällä vahalla",
+      "Kestävyys jopa 4 kuukautta"
+    ],
+    "class_price_1": 280,
+    "class_price_2": 280,
+    "class_price_3": 280,
+    "class_price_4": 290,
+    "class_price_5": 300,
+    "class_price_6": 315
+  },
+  {
+    "id": 28,
+    "name": "SUOJA-AINE NESTEMÄINEN LASI - HIKARI Saphire, 7H",
+    "description": [
+      "Antaa peilimäisen kiillon ja syventää väriä",
+      "Suojaa maalin haalistumiselta ja palamiselta",
+      "Pehmeämpi koostumus kuin HIKARI Diamond",
+      "Valmistava korin pesu",
+      "Puhdistava korin kiillotus",
+      "HIKARI-suojapinnoitteen levitys korille",
+      "HIKARI-suojapinnoitteen levitys vanteiden etupuolelle",
+      "Renkaiden mustaus HIKARI Black Starilla",
+      "Vettä hylkivä käsittely etulaseille HIKARI-aineella",
+      "Suoja jopa 2 vuotta"
+    ],
+    "class_price_1": 600,
+    "class_price_2": 600,
+    "class_price_3": 600,
+    "class_price_4": 630,
+    "class_price_5": 660,
+    "class_price_6": 690
+  },
+  {
+    "id": 29,
+    "name": "SUOJA-AINE NESTEMÄINEN LASI - HIKARI Diamond, 9H",
+    "description": [
+      "Antaa peilimäisen kiillon ja syventää väriä",
+      "Suojaa maalin haalistumiselta ja palamiselta",
+      "Korkea kestävyys ja kulutuskestävyys",
+      "Valmistava korin pesu",
+      "Puhdistava korin kiillotus",
+      "HIKARI-suojapinnoitteen levitys korille",
+      "HIKARI-suojapinnoitteen levitys vanteiden etupuolelle",
+      "Renkaiden mustaus HIKARI Black Starilla",
+      "Vettä hylkivä käsittely etulaseille HIKARI-aineella",
+      "Suoja jopa 3 vuotta"
+    ],
+    "class_price_1": 850,
+    "class_price_2": 850,
+    "class_price_3": 850,
+    "class_price_4": 890,
+    "class_price_5": 930,
+    "class_price_6": 970
+  },
+  {
+    "id": 30,
+    "name": "KAKSIKOMPONENTTINEN NESTEMÄINEN LASISUOJAPINNOITE - HIKARI Pro, 10H, 2 KERROSTA",
+    "description": [
+      "Itsekorjautuva uuden sukupolven koostumus, tarjoaa entistä syvemmän kiillon ja pidempikestoisen hydrofobisen vaikutuksen",
+      "Yhdistää ainutlaatuisia ominaisuuksia, jotka mahdollistavat auton täydellisen ulkonäön säilyttämisen 5 vuoden ajan asianmukaisella hoidolla",
+      "Valmistava korin pesu",
+      "Puhdistava korin kiillotus",
+      "HIKARI-suojapinnoitteen levitys korille",
+      "HIKARI-suojapinnoitteen levitys vanteiden etupuolelle",
+      "Renkaiden mustaus HIKARI Black Starilla",
+      "Vettä hylkivä käsittely kaikille laseille HIKARI-aineella",
+      "Suoja jopa 5 vuotta"
+    ],
+    "class_price_1": 1000,
+    "class_price_2": 1000,
+    "class_price_3": 1000,
+    "class_price_4": 1050,
+    "class_price_5": 1100,
+    "class_price_6": 1150
+  },
+  {
+    "id": 31,
+    "name": "SUOJA-AINE KERAAMINEN PINNOITE - Gtechniq EXOv5 Ultra Durable Hydrophobic Coating",
+    "description": [
+      "Suoja 18-24 kuukautta"
+    ],
+    "class_price_1": 600,
+    "class_price_2": 600,
+    "class_price_3": 600,
+    "class_price_4": 620,
+    "class_price_5": 640,
+    "class_price_6": 660
+  },
+  {
+    "id": 32,
+    "name": "SUOJA-AINE KERAAMINEN PINNOITE - Gtechniq (CSL) Crystal Serum Light",
+    "description": [
+      "Suoja jopa 5 vuotta"
+    ],
+    "class_price_1": 660,
+    "class_price_2": 660,
+    "class_price_3": 660,
+    "class_price_4": 680,
+    "class_price_5": 700,
+    "class_price_6": 720
+  },
+  {
+    "id": 33,
+    "name": "KAKSIKERROKSINEN SUOJA-AINE KERAAMINEN PINNOITE - Gtechniq CSL + EXO",
+    "description": [
+      "Suoja jopa 5 vuotta"
+    ],
+    "class_price_1": 800,
+    "class_price_2": 800,
+    "class_price_3": 800,
+    "class_price_4": 820,
+    "class_price_5": 840,
+    "class_price_6": 860
+  },
+  {
+    "id": 34,
+    "name": "SUOJA-AINE KERAAMINEN PINNOITE - Gtechniq Crystal Serum Ultra",
+    "description": [
+      "Suoja jopa 9 vuotta"
+    ],
+    "class_price_1": 700,
+    "class_price_2": 700,
+    "class_price_3": 700,
+    "class_price_4": 720,
+    "class_price_5": 740,
+    "class_price_6": 760
+  },
+  {
+    "id": 35,
+    "name": "KAKSIKERROKSINEN SUOJA-AINE KERAAMINEN PINNOITE - Gtechniq CSU + EXO",
+    "description": [
+      "Suoja jopa 9 vuotta"
+    ],
+    "class_price_1": 840,
+    "class_price_2": 840,
+    "class_price_3": 840,
+    "class_price_4": 860,
+    "class_price_5": 880,
+    "class_price_6": 900
+  },
+  {
+    "id": 36,
+    "name": "SUOJA-AINE KERAAMINEN PINNOITE - GYEON Q² CanCoat",
+    "description": [
+      "Korkean teknologian kvartsipohjainen suojapinnoite, antaa erinomaisen syvän kiillon ja vahvan hydrofobisen suojan",
+      "Valmistava korin pesu",
+      "GYEON-suojapinnoitteen levitys korille",
+      "Renkaiden mustaus",
+      "Suoja jopa 6 kuukautta"
+    ],
+    "class_price_1": 300,
+    "class_price_2": 300,
+    "class_price_3": 300,
+    "class_price_4": 315,
+    "class_price_5": 330,
+    "class_price_6": 345
+  },
+  {
+    "id": 37,
+    "name": "SUOJA-AINE KERAAMINEN PINNOITE - GYEON Q² CanCoat Pro",
+    "description": [
+      "Korkean teknologian kvartsipohjainen suojapinnoite, antaa erinomaisen syvän kiillon ja vahvan hydrofobisen suojan",
+      "Valmistava korin pesu",
+      "GYEON-suojapinnoitteen levitys korille",
+      "Renkaiden mustaus",
+      "Suoja jopa 18 kuukautta"
+    ],
+    "class_price_1": 350,
+    "class_price_2": 350,
+    "class_price_3": 350,
+    "class_price_4": 370,
+    "class_price_5": 385,
+    "class_price_6": 400
+  },
+  {
+    "id": 38,
+    "name": "SUOJA-AINE KERAAMINEN PINNOITE MATTA-AUTOILLE - GYEON Q² Matte, 9H",
+    "description": [
+      "Ainutlaatuinen ja maailman ensimmäinen keraaminen kvartsipohjainen suojapinnoite matta-maalipinnoille ja suojakalvoille",
+      "Tehostaa värin kylläisyyttä muuttamatta käsitellyn pinnan mattaa rakennetta",
+      "Antaa käsitellyille pinnoille vahvat hydrofobiset ominaisuudet",
+      "Valmistava korin pesu",
+      "Puhdistava korin kiillotus",
+      "GYEON-suojapinnoitteen levitys korille",
+      "GYEON-suojapinnoitteen levitys vanteiden etupuolelle",
+      "Renkaiden mustaus GYEON Q² Tire -tuotteella",
+      "Vettä hylkivä käsittely etulaseille GYEON-aineella",
+      "Suoja jopa 24 kuukautta"
+    ],
+    "class_price_1": 650,
+    "class_price_2": 650,
+    "class_price_3": 650,
+    "class_price_4": 685,
+    "class_price_5": 720,
+    "class_price_6": 750
+  },
+  {
+    "id": 39,
+    "name": "SUOJAPINNOITTEIDEN SÄÄNNÖLLINEN HUOLTO",
+    "description": [
+      "Pikakäsittely, hydrofobisen pinnoitteen palautus"
+    ],
+    "class_price_1": 55,
+    "class_price_2": 55,
+    "class_price_3": 55,
+    "class_price_4": 57,
+    "class_price_5": 62,
+    "class_price_6": 68
+  },
+  {
+    "id": 40,
+    "name": "VANNEIDEN SUOJAPINNOITE HIKARI Alloy Star (ETUPUOLI)",
+    "description": [
+      "Erittäin kestävä ja pitkäkestoinen kvartsipohjainen suoja kaikentyyppisille vanteille reagenteja, tielikaa ja jarrupölyä vastaan",
+      "Antaa vanteille vahvat hydrofobiset ominaisuudet ja jalostetun kiillon",
+      "Valmistava vanteiden pesu",
+      "HIKARI-suojapinnoitteen levitys vanteiden etupuolelle",
+      "Renkaiden mustaus HIKARI Black Starilla",
+      "Suoja jopa 3 vuotta"
+    ],
+    "class_price_1": 160,
+    "class_price_2": 160,
+    "class_price_3": 160,
+    "class_price_4": 170,
+    "class_price_5": 180,
+    "class_price_6": 200
+  },
+  {
+    "id": 41,
+    "name": "VANNEIDEN SUOJAPINNOITE HIKARI Alloy Star (MOLEMMAT PUOLET)",
+    "description": [
+      "Erittäin kestävä ja pitkäkestoinen kvartsipohjainen suoja kaikentyyppisille vanteille reagenteja, tielikaa ja jarrupölyä vastaan",
+      "Antaa vanteille vahvat hydrofobiset ominaisuudet ja jalostetun kiillon",
+      "Valmistava vanteiden pesu",
+      "HIKARI-suojapinnoitteen levitys vanteiden molemmille puolille",
+      "Renkaiden mustaus HIKARI Black Starilla",
+      "Suoja jopa 3 vuotta"
+    ],
+    "class_price_1": 250,
+    "class_price_2": 250,
+    "class_price_3": 250,
+    "class_price_4": 275,
+    "class_price_5": 300,
+    "class_price_6": 325
+  },
+  {
+    "id": 42,
+    "name": "RENKAIDEN SUOJAUS JA MUSTAUS HIKARI Black Star",
+    "description": [
+      "Kun levitetään auton renkaisiin, se peittää pinnan ja muodostaa suojakerroksen, joka estää haalistumista ja palamista, suojaa ilmakehän sateilta ja kemiallisilta reagensseilta"
+    ],
+    "class_price_1": 53,
+    "class_price_2": 53,
+    "class_price_3": 53,
+    "class_price_4": 58,
+    "class_price_5": 65,
+    "class_price_6": 70
+  },
+  {
+    "id": 43,
+    "name": "VANNEIDEN SUOJAUS AlloyGator Inter 12\"-19\" ASENNUKSELLA",
+    "description": [
+      "Valuvanteiden suojaus vaurioilta ja ainutlaatuinen ulkonäkö autollesi"
+    ],
+    "class_price_1": 200,
+    "class_price_2": 200,
+    "class_price_3": 200,
+    "class_price_4": 200,
+    "class_price_5": 200,
+    "class_price_6": 200
+  },
+  {
+    "id": 44,
+    "name": "VANNEIDEN SUOJAUS AlloyGator Exclusive 12\"-24\" ASENNUKSELLA",
+    "description": [
+      "Valuvanteiden suojaus vaurioilta ja ainutlaatuinen ulkonäkö autollesi"
+    ],
+    "class_price_1": 220,
+    "class_price_2": 220,
+    "class_price_3": 220,
+    "class_price_4": 220,
+    "class_price_5": 220,
+    "class_price_6": 220
+  },
+  {
+    "id": 45,
+    "name": "AUTON KULJETUS PESUUN JA TAKAISIN TALLINNAN ALUEELLA",
+    "description": [],
+    "class_price_1": 34,
+    "class_price_2": 34,
+    "class_price_3": 34,
+    "class_price_4": 34,
+    "class_price_5": 40,
+    "class_price_6": 40
+  }
+]

@@ -1,0 +1,741 @@
+[
+  {
+    "id": 1,
+    "name": "MAY PROMOTION ON CAR PREPARATION",
+    "description": [
+      "Thorough body wash",
+      "Thorough interior cleaning",
+      "Light gloss polishing",
+      "Ceramic coating protection for 1 year",
+      "Regular price: €1500",
+      "Promotion valid until May 31!"
+    ],
+    "class_price_1": 575,
+    "class_price_2": 575,
+    "class_price_3": 600,
+    "class_price_4": 625,
+    "class_price_5": 650,
+    "class_price_6": 675
+  },
+  {
+    "id": 2,
+    "name": "STANDARD EXTERIOR WASH",
+    "description": [
+      "Pre-contactless body wash",
+      "Soaking of bitumen and salt",
+      "Gentle hand wash with shampoo",
+      "Washing door sills/openings, mufflers",
+      "Washing wheel rims (front side)",
+      "Applying quick wax to the body",
+      "Drying the body with a soft microfiber towel and air drying",
+      "Washing/cleaning floor mats",
+      "Tire blackening",
+      "Wiping exterior glass"
+    ],
+    "class_price_1": 53,
+    "class_price_2": 56,
+    "class_price_3": 59,
+    "class_price_4": 65,
+    "class_price_5": 70,
+    "class_price_6": 75
+  },
+  {
+    "id": 3,
+    "name": "PREMIUM EXTERIOR WASH",
+    "description": [
+      "Double pre-contactless body wash",
+      "Soaking of bitumen and salt",
+      "Gentle hand wash with shampoo",
+      "Washing door sills/openings, mufflers",
+      "Removal of everyday bitumen",
+      "Washing wheel rims (front side)",
+      "Applying protective wax/maintenance of protective coating",
+      "Full body drying with a soft microfiber towel and hot air/turbo drying",
+      "Washing/cleaning floor mats",
+      "Tire blackening with Tire Express",
+      "Wiping exterior glass"
+    ],
+    "class_price_1": 92,
+    "class_price_2": 92,
+    "class_price_3": 92,
+    "class_price_4": 100,
+    "class_price_5": 113,
+    "class_price_6": 122
+  },
+  {
+    "id": 4,
+    "name": "THOROUGH EXTERIOR WASH",
+    "description": [
+      "Double pre-contactless body wash",
+      "Soaking of bitumen and salt",
+      "Gentle hand wash with shampoo, using brushes",
+      "Washing door sills/openings, wheel arches, mufflers",
+      "Removal of bitumen, salts from body, door openings, and wheel rims (front side)",
+      "Removal of metallic inclusions (yellow dots)",
+      "Cleaning wheel rims (front side)",
+      "Applying WetCoat Essence protective wax/maintenance of protective coating",
+      "Full body drying with a soft microfiber towel and hot air/turbo drying",
+      "Washing/cleaning floor mats",
+      "Tire blackening with Tire",
+      "Cleaning exterior glass with paste"
+    ],
+    "class_price_1": 150,
+    "class_price_2": 150,
+    "class_price_3": 150,
+    "class_price_4": 164,
+    "class_price_5": 186,
+    "class_price_6": 195
+  },
+  {
+    "id": 5,
+    "name": "ADDITIONAL SOAKING",
+    "description": [],
+    "class_price_1": 6,
+    "class_price_2": 6,
+    "class_price_3": 6,
+    "class_price_4": 6,
+    "class_price_5": 7,
+    "class_price_6": 7
+  },
+  {
+    "id": 6,
+    "name": "ADDITIONAL BITUMEN SOAKING",
+    "description": [],
+    "class_price_1": 11,
+    "class_price_2": 11,
+    "class_price_3": 11,
+    "class_price_4": 11,
+    "class_price_5": 12,
+    "class_price_6": 14
+  },
+  {
+    "id": 7,
+    "name": "LIQUID WAX Q2M WetCoat",
+    "description": [
+      "Additional to the selected wash",
+      "Provides hydrophobic properties and gloss",
+      "Durability up to 12 weeks"
+    ],
+    "class_price_1": 53,
+    "class_price_2": 53,
+    "class_price_3": 53,
+    "class_price_4": 55,
+    "class_price_5": 60,
+    "class_price_6": 65
+  },
+  {
+    "id": 8,
+    "name": "ENGINE DETAILING WASH",
+    "description": [
+      "Additional to the selected wash",
+      "Engine wash with a special dielectric compound",
+      "Cleaning of the engine compartment",
+      "Thorough drying",
+      "Engine compartment preservation"
+    ],
+    "class_price_1": 185,
+    "class_price_2": 185,
+    "class_price_3": 185,
+    "class_price_4": 195,
+    "class_price_5": 210,
+    "class_price_6": 230
+  },
+  {
+    "id": 9,
+    "name": "STANDARD INTERIOR CLEANING",
+    "description": [
+      "Vacuuming the entire interior",
+      "Wiping all interior surfaces with a special compound",
+      "Cleaning floor mats",
+      "OPTIONS:",
+      "Wiping three front interior windows",
+      "Wiping all interior windows, including sunroof/panorama",
+      "Vacuuming trunk and niche",
+      "Wiping all interior surfaces with a special antibacterial compound",
+      "Heavy stains and pet hair are charged additionally"
+    ],
+    "class_price_1": 43,
+    "class_price_2": 43,
+    "class_price_3": 43,
+    "class_price_4": 47,
+    "class_price_5": 54,
+    "class_price_6": 57
+  },
+  {
+    "id": 10,
+    "name": "PREMIUM INTERIOR CLEANING",
+    "description": [
+      "Preliminary vacuuming of the entire interior",
+      "Cleaning the interior with a special compound using brushes and air",
+      "Cleaning pedals and under-pedal area",
+      "Control vacuuming of the entire interior",
+      "Wiping leather interior",
+      "Cleaning floor mats",
+      "OPTIONS:",
+      "Wiping three front interior windows",
+      "Wiping all interior windows, including sunroof/panorama",
+      "Vacuuming trunk and niche",
+      "Wiping all interior surfaces with a special antibacterial compound",
+      "Heavy stains and pet hair are charged additionally"
+    ],
+    "class_price_1": 81,
+    "class_price_2": 81,
+    "class_price_3": 81,
+    "class_price_4": 88,
+    "class_price_5": 100,
+    "class_price_6": 110
+  },
+  {
+    "id": 11,
+    "name": "THOROUGH INTERIOR CLEANING",
+    "description": [
+      "Preliminary vacuuming of the entire interior, trunk, and trunk niche",
+      "Cleaning all interior elements with a Tornador",
+      "Cleaning pedals and under-pedal area",
+      "Deep cleaning of all interior, trunk, and trunk niche surfaces using brushes and air",
+      "Wiping leather interior",
+      "Control vacuuming of the entire interior and trunk",
+      "Thorough cleaning of all interior windows, including sunroof/panorama",
+      "Cleaning floor mats",
+      "OPTIONS:",
+      "Wiping all interior surfaces with a special antibacterial compound",
+      "Heavy stains and pet hair are charged additionally"
+    ],
+    "class_price_1": 150,
+    "class_price_2": 150,
+    "class_price_3": 150,
+    "class_price_4": 164,
+    "class_price_5": 186,
+    "class_price_6": 195
+  },
+  {
+    "id": 12,
+    "name": "STANDARD LEATHER INTERIOR CLEANING AND CARE",
+    "description": [
+      "Additional to INTERIOR CLEANING",
+      "Five seats, central armrest, steering wheel",
+      "Thorough leather interior cleaning",
+      "Treating leather interior with preserving and protective compounds",
+      "OPTIONS:",
+      "Third row of seats",
+      "Premium protective cream",
+      "Antibacterial protective cream"
+    ],
+    "class_price_1": 107,
+    "class_price_2": 107,
+    "class_price_3": 107,
+    "class_price_4": 120,
+    "class_price_5": 135,
+    "class_price_6": 145
+  },
+  {
+    "id": 13,
+    "name": "PREMIUM LEATHER INTERIOR CLEANING AND CARE",
+    "description": [
+      "Additional to INTERIOR CLEANING",
+      "Five seats, central armrest, steering wheel, dashboard, door panels",
+      "Thorough leather interior cleaning",
+      "Treating leather interior with premium preserving and protective compounds",
+      "OPTIONS:",
+      "Third row of seats",
+      "Ceiling leather care",
+      "Trunk leather care"
+    ],
+    "class_price_1": 161,
+    "class_price_2": 161,
+    "class_price_3": 161,
+    "class_price_4": 176,
+    "class_price_5": 200,
+    "class_price_6": 215
+  },
+  {
+    "id": 14,
+    "name": "ANTIBACTERIAL LEATHER INTERIOR CLEANING AND CARE",
+    "description": [
+      "Additional to INTERIOR CLEANING",
+      "Five seats, central armrest, steering wheel, dashboard, door panels",
+      "Thorough leather interior cleaning",
+      "Treating with antibacterial preserving and protective compounds",
+      "OPTIONS:",
+      "Third row of seats",
+      "Ceiling leather care",
+      "Trunk leather care"
+    ],
+    "class_price_1": 184,
+    "class_price_2": 184,
+    "class_price_3": 184,
+    "class_price_4": 200,
+    "class_price_5": 227,
+    "class_price_6": 245
+  },
+  {
+    "id": 15,
+    "name": "STANDARD CERAMIC LEATHER INTERIOR PROTECTION",
+    "description": [
+      "New car. Five seats, central armrest, steering wheel",
+      "Surface preparation for protective coating application",
+      "Applying ceramic preserving compound to leather interior",
+      "Protection lasts up to 6 months",
+      "OPTION: Third row of seats"
+    ],
+    "class_price_1": 235,
+    "class_price_2": 235,
+    "class_price_3": 235,
+    "class_price_4": 255,
+    "class_price_5": 285,
+    "class_price_6": 310
+  },
+  {
+    "id": 16,
+    "name": "LOCAL CHEMICAL CLEANING / 1 SEAT",
+    "description": [],
+    "class_price_1": 84,
+    "class_price_2": 84,
+    "class_price_3": 84,
+    "class_price_4": 92,
+    "class_price_5": 105,
+    "class_price_6": 115
+  },
+  {
+    "id": 17,
+    "name": "INTERIOR CHEMICAL CLEANING",
+    "description": [],
+    "class_price_1": 400,
+    "class_price_2": 400,
+    "class_price_3": 400,
+    "class_price_4": 440,
+    "class_price_5": 480,
+    "class_price_6": 520
+  },
+  {
+    "id": 18,
+    "name": "ODOR ELIMINATION AND CAR INTERIOR FRAGRANCING - DRY FOG",
+    "description": [
+      "Additional to THOROUGH INTERIOR CLEANING",
+      "Technology that instantly fills the entire interior with a special vapor that penetrates all crevices, seat upholstery, cavities, and other areas, breaking down and completely eliminating lingering odors",
+      "After thorough ventilation, the car smells fresh and maintains this state of cleanliness for a long time"
+    ],
+    "class_price_1": 55,
+    "class_price_2": 55,
+    "class_price_3": 55,
+    "class_price_4": 55,
+    "class_price_5": 60,
+    "class_price_6": 65
+  },
+  {
+    "id": 19,
+    "name": "CONVERTIBLE ROOF TREATMENT",
+    "description": [
+      "Additional to the selected wash",
+      "Washing and drying the roof, roof compartment, and adjacent area",
+      "Blowing out the folding mechanism, treating rubber seals and plastic elements with a preservative",
+      "Applying water-repellent protective impregnation to the soft roof",
+      "Durability up to 6 months"
+    ],
+    "class_price_1": 175,
+    "class_price_2": 175,
+    "class_price_3": 175,
+    "class_price_4": 190,
+    "class_price_5": 215,
+    "class_price_6": 235
+  },
+  {
+    "id": 20,
+    "name": "ANTI-RAIN GLASS TREATMENT (WINDSHIELD + 2 DOORS)",
+    "description": [
+      "Additional to the selected wash",
+      "Quartz protective 'anti-rain' coating for glass, providing powerful water- and dirt-repellent properties",
+      "Water rolls off the surface at speed, significantly improving visibility even in heavy rain",
+      "Ice formed in winter does not stick and is easily removed",
+      "Windshield + 2 doors",
+      "Durability up to 12 months"
+    ],
+    "class_price_1": 100,
+    "class_price_2": 100,
+    "class_price_3": 100,
+    "class_price_4": 105,
+    "class_price_5": 115,
+    "class_price_6": 125
+  },
+  {
+    "id": 21,
+    "name": "ANTI-RAIN GLASS TREATMENT (ALL GLASS)",
+    "description": [
+      "Additional to the selected wash",
+      "Quartz protective 'anti-rain' coating for glass, providing powerful water- and dirt-repellent properties",
+      "Water rolls off the surface at speed, significantly improving visibility even in heavy rain",
+      "Ice formed in winter does not stick and is easily removed",
+      "All glass",
+      "Durability up to 12 months"
+    ],
+    "class_price_1": 180,
+    "class_price_2": 180,
+    "class_price_3": 180,
+    "class_price_4": 190,
+    "class_price_5": 205,
+    "class_price_6": 225
+  },
+  {
+    "id": 22,
+    "name": "LIGHT (CLEANING) BODY POLISHING IN 1 STAGE",
+    "description": [],
+    "class_price_1": 140,
+    "class_price_2": 140,
+    "class_price_3": 140,
+    "class_price_4": 160,
+    "class_price_5": 170,
+    "class_price_6": 190
+  },
+  {
+    "id": 23,
+    "name": "GLOSS RESTORATION, BODY POLISHING IN 1 STAGE",
+    "description": [
+      "Fine restoration of paintwork using anti-glare pastes that remove the finest scratches, giving the paint surface a deep gloss"
+    ],
+    "class_price_1": 340,
+    "class_price_2": 340,
+    "class_price_3": 340,
+    "class_price_4": 360,
+    "class_price_5": 380,
+    "class_price_6": 400
+  },
+  {
+    "id": 24,
+    "name": "MEDIUM (CORRECTIVE) BODY POLISHING IN 2 STAGES",
+    "description": [
+      "During medium (corrective) body polishing, the following are removed: small and medium scratches from body washing; holograms from factory or poor-quality garage/paint polishing; traces of dried insects; traces of bird droppings; traces of acidic corrosive substances",
+      "After corrective polishing, the scratched body will be free of dullness, scuffs, and all minor scratches",
+      "The car will gain a vibrant appearance"
+    ],
+    "class_price_1": 700,
+    "class_price_2": 700,
+    "class_price_3": 700,
+    "class_price_4": 800,
+    "class_price_5": 800,
+    "class_price_6": 800
+  },
+  {
+    "id": 25,
+    "name": "FULL ABRASIVE (RESTORATIVE) BODY POLISHING IN 3 STAGES",
+    "description": [
+      "Full abrasive restorative body polishing",
+      "Main principles of restorative body polishing: remove most scratches (but only those that do not reduce the paint thickness to critical levels); achieve a bright and hologram-free final result"
+    ],
+    "class_price_1": 1200,
+    "class_price_2": 1200,
+    "class_price_3": 1200,
+    "class_price_4": 1300,
+    "class_price_5": 1300,
+    "class_price_6": 1300
+  },
+  {
+    "id": 26,
+    "name": "HEADLIGHT OR TAILLIGHT POLISHING / PER PAIR",
+    "description": [],
+    "class_price_1": 85,
+    "class_price_2": 85,
+    "class_price_3": 85,
+    "class_price_4": 92,
+    "class_price_5": 104,
+    "class_price_6": 110
+  },
+  {
+    "id": 27,
+    "name": "PROTECTIVE WAX COATING",
+    "description": [
+      "Coating with durable wax",
+      "Durability up to 4 months"
+    ],
+    "class_price_1": 280,
+    "class_price_2": 280,
+    "class_price_3": 280,
+    "class_price_4": 290,
+    "class_price_5": 300,
+    "class_price_6": 315
+  },
+  {
+    "id": 28,
+    "name": "PROTECTIVE LIQUID GLASS COATING - HIKARI Saphire, 7H",
+    "description": [
+      "Provides mirror-like gloss and enhances color depth",
+      "Protects paintwork from fading and burning out",
+      "Softer composition than HIKARI Diamond",
+      "Preparatory body wash",
+      "Cleaning body polishing",
+      "Application of HIKARI protective coating to the body",
+      "Application of HIKARI protective coating to wheel rims (front side)",
+      "Tire blackening with HIKARI Black Star",
+      "Anti-rain treatment for front windows with HIKARI",
+      "Protection up to 2 years"
+    ],
+    "class_price_1": 600,
+    "class_price_2": 600,
+    "class_price_3": 600,
+    "class_price_4": 630,
+    "class_price_5": 660,
+    "class_price_6": 690
+  },
+  {
+    "id": 29,
+    "name": "PROTECTIVE LIQUID GLASS COATING - HIKARI Diamond, 9H",
+    "description": [
+      "Provides mirror-like gloss and enhances color depth",
+      "Protects paintwork from fading and burning out",
+      "High durability and wear resistance",
+      "Preparatory body wash",
+      "Cleaning body polishing",
+      "Application of HIKARI protective coating to the body",
+      "Application of HIKARI protective coating to wheel rims (front side)",
+      "Tire blackening with HIKARI Black Star",
+      "Anti-rain treatment for front windows with HIKARI",
+      "Protection up to 3 years"
+    ],
+    "class_price_1": 850,
+    "class_price_2": 850,
+    "class_price_3": 850,
+    "class_price_4": 890,
+    "class_price_5": 930,
+    "class_price_6": 970
+  },
+  {
+    "id": 30,
+    "name": "TWO-COMPONENT LIQUID GLASS PROTECTIVE COATING - HIKARI Pro, 10H, 2 LAYERS",
+    "description": [
+      "Self-healing composition of the new generation, providing even greater gloss depth and longer-lasting hydrophobic effect",
+      "Combines a set of unique characteristics that allow the car to maintain its perfect appearance for 5 years, with proper care",
+      "Preparatory body wash",
+      "Cleaning body polishing",
+      "Application of HIKARI protective coating to the body",
+      "Application of HIKARI protective coating to wheel rims (front side)",
+      "Tire blackening with HIKARI Black Star",
+      "Anti-rain treatment for all windows with HIKARI",
+      "Protection up to 5 years"
+    ],
+    "class_price_1": 1000,
+    "class_price_2": 1000,
+    "class_price_3": 1000,
+    "class_price_4": 1050,
+    "class_price_5": 1100,
+    "class_price_6": 1150
+  },
+  {
+    "id": 31,
+    "name": "PROTECTIVE CERAMIC COATING - Gtechniq EXOv5 Ultra Durable Hydrophobic Coating",
+    "description": [
+      "Protection for 18-24 months"
+    ],
+    "class_price_1": 600,
+    "class_price_2": 600,
+    "class_price_3": 600,
+    "class_price_4": 620,
+    "class_price_5": 640,
+    "class_price_6": 660
+  },
+  {
+    "id": 32,
+    "name": "PROTECTIVE CERAMIC COATING - Gtechniq (CSL) Crystal Serum Light",
+    "description": [
+      "Protection up to 5 years"
+    ],
+    "class_price_1": 660,
+    "class_price_2": 660,
+    "class_price_3": 660,
+    "class_price_4": 680,
+    "class_price_5": 700,
+    "class_price_6": 720
+  },
+  {
+    "id": 33,
+    "name": "TWO-LAYER PROTECTIVE CERAMIC COATING - Gtechniq CSL + EXO",
+    "description": [
+      "Protection up to 5 years"
+    ],
+    "class_price_1": 800,
+    "class_price_2": 800,
+    "class_price_3": 800,
+    "class_price_4": 820,
+    "class_price_5": 840,
+    "class_price_6": 860
+  },
+  {
+    "id": 34,
+    "name": "PROTECTIVE CERAMIC COATING - Gtechniq Crystal Serum Ultra",
+    "description": [
+      "Protection up to 9 years"
+    ],
+    "class_price_1": 700,
+    "class_price_2": 700,
+    "class_price_3": 700,
+    "class_price_4": 720,
+    "class_price_5": 740,
+    "class_price_6": 760
+  },
+  {
+    "id": 35,
+    "name": "TWO-LAYER PROTECTIVE CERAMIC COATING - Gtechniq CSU + EXO",
+    "description": [
+      "Protection up to 9 years"
+    ],
+    "class_price_1": 840,
+    "class_price_2": 840,
+    "class_price_3": 840,
+    "class_price_4": 860,
+    "class_price_5": 880,
+    "class_price_6": 900
+  },
+  {
+    "id": 36,
+    "name": "PROTECTIVE CERAMIC COATING - GYEON Q² CanCoat",
+    "description": [
+      "High-tech quartz protective coating, provides superior deep gloss and strong hydrophobic protective effect",
+      "Preparatory body wash",
+      "Application of GYEON protective coating to the body",
+      "Tire blackening",
+      "Protection up to 6 months"
+    ],
+    "class_price_1": 300,
+    "class_price_2": 300,
+    "class_price_3": 300,
+    "class_price_4": 315,
+    "class_price_5": 330,
+    "class_price_6": 345
+  },
+  {
+    "id": 37,
+    "name": "PROTECTIVE CERAMIC COATING - GYEON Q² CanCoat Pro",
+    "description": [
+      "High-tech quartz protective coating, provides superior deep gloss and strong hydrophobic protective effect",
+      "Preparatory body wash",
+      "Application of GYEON protective coating to the body",
+      "Tire blackening",
+      "Protection up to 18 months"
+    ],
+    "class_price_1": 350,
+    "class_price_2": 350,
+    "class_price_3": 350,
+    "class_price_4": 370,
+    "class_price_5": 385,
+    "class_price_6": 400
+  },
+  {
+    "id": 38,
+    "name": "PROTECTIVE CERAMIC COATING FOR MATTE CARS - GYEON Q² Matte, 9H",
+    "description": [
+      "Unique and world’s first ceramic quartz protective coating for matte paintwork and protective films",
+      "Enhances color saturation without altering the matte structure of the treated surface",
+      "Provides strong hydrophobic properties to treated surfaces",
+      "Preparatory body wash",
+      "Cleaning body polishing",
+      "Application of GYEON protective coating to the body",
+      "Application of GYEON protective coating to wheel rims (front side)",
+      "Tire blackening with GYEON Q² Tire",
+      "Anti-rain treatment for front windows with GYEON",
+      "Protection up to 24 months"
+    ],
+    "class_price_1": 650,
+    "class_price_2": 650,
+    "class_price_3": 650,
+    "class_price_4": 685,
+    "class_price_5": 720,
+    "class_price_6": 750
+  },
+  {
+    "id": 39,
+    "name": "REGULAR MAINTENANCE OF PROTECTIVE COATINGS",
+    "description": [
+      "Express treatment, restoration of hydrophobic coating"
+    ],
+    "class_price_1": 55,
+    "class_price_2": 55,
+    "class_price_3": 55,
+    "class_price_4": 57,
+    "class_price_5": 62,
+    "class_price_6": 68
+  },
+  {
+    "id": 40,
+    "name": "PROTECTIVE COATING FOR WHEEL RIMS HIKARI Alloy Star (FRONT SIDE)",
+    "description": [
+      "Ultra-durable and highly resistant quartz protection for all types of rims against reagents, road grime, and brake dust",
+      "Provides rims with strong hydrophobic properties and a noble gloss",
+      "Preparatory rim wash",
+      "Application of HIKARI protective coating to wheel rims (front side)",
+      "Tire blackening with HIKARI Black Star",
+      "Protection up to 3 years"
+    ],
+    "class_price_1": 160,
+    "class_price_2": 160,
+    "class_price_3": 160,
+    "class_price_4": 170,
+    "class_price_5": 180,
+    "class_price_6": 200
+  },
+  {
+    "id": 41,
+    "name": "PROTECTIVE COATING FOR WHEEL RIMS HIKARI Alloy Star (BOTH SIDES)",
+    "description": [
+      "Ultra-durable and highly resistant quartz protection for all types of rims against reagents, road grime, and brake dust",
+      "Provides rims with strong hydrophobic properties and a noble gloss",
+      "Preparatory rim wash",
+      "Application of HIKARI protective coating to wheel rims (both sides)",
+      "Tire blackening with HIKARI Black Star",
+      "Protection up to 3 years"
+    ],
+    "class_price_1": 250,
+    "class_price_2": 250,
+    "class_price_3": 250,
+    "class_price_4": 275,
+    "class_price_5": 300,
+    "class_price_6": 325
+  },
+  {
+    "id": 42,
+    "name": "TIRE PROTECTION AND BLACKENING HIKARI Black Star",
+    "description": [
+      "When applied to car tires, it envelops the surface and forms a protective rubber layer that prevents fading and burning out, protects against atmospheric precipitation and chemical reagents"
+    ],
+    "class_price_1": 53,
+    "class_price_2": 53,
+    "class_price_3": 53,
+    "class_price_4": 58,
+    "class_price_5": 65,
+    "class_price_6": 70
+  },
+  {
+    "id": 43,
+    "name": "ALLOYGATOR INTER 12\"-19\" RIM PROTECTION WITH INSTALLATION",
+    "description": [
+      "Protection of alloy rims from damage and a unique appearance for your car"
+    ],
+    "class_price_1": 200,
+    "class_price_2": 200,
+    "class_price_3": 200,
+    "class_price_4": 200,
+    "class_price_5": 200,
+    "class_price_6": 200
+  },
+  {
+    "id": 44,
+    "name": "ALLOYGATOR EXCLUSIVE 12\"-24\" RIM PROTECTION WITH INSTALLATION",
+    "description": [
+      "Protection of alloy rims from damage and a unique appearance for your car"
+    ],
+    "class_price_1": 220,
+    "class_price_2": 220,
+    "class_price_3": 220,
+    "class_price_4": 220,
+    "class_price_5": 220,
+    "class_price_6": 220
+  },
+  {
+    "id": 45,
+    "name": "CAR TRANSPORTATION TO AND FROM THE WASH WITHIN TALLINN",
+    "description": [],
+    "class_price_1": 34,
+    "class_price_2": 34,
+    "class_price_3": 34,
+    "class_price_4": 34,
+    "class_price_5": 40,
+    "class_price_6": 40
+  }
+]
