@@ -25,11 +25,11 @@ function getJsonFileForLanguage() {
 
   // Select file based on language
   if (selectedLanguage === 'fi') {
-    return '../data/services_all_classes_fi.json';
+    return 'https://rmk-kk.github.io/kostya_website/data/services_all_classes_fi.json';
   } else if (selectedLanguage === 'ru') {
-    return '../data/services_all_classes_ru.json';
+    return 'https://rmk-kk.github.io/kostya_website/data/services_all_classes_ru.json';
   } else {
-    return '../data/services_all_classes_en.json'; // Default to English
+    return 'https://rmk-kk.github.io/kostya_website/data/services_all_classes_en.json'; // Default to English
   }
 }
 

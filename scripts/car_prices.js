@@ -1,4 +1,4 @@
-import { renderCarWashTable } from './render_pricetable.js';
+import { renderCarWashTable } from 'https://rmk-kk.github.io/kostya_website/scripts/render_pricetable.js';
 
 let allManufacturers = [];
 let selectedManufacturerId = '';
