@@ -134,3 +134,104 @@ th {
   margin: 0;
   padding-left: 20px;
 }
+
+/* Media Queries */
+
+/* Tablets (577px to 768px) */
+@media (max-width: 768px) {
+  .car_prices {
+    max-width: 90%; /* Use more of the screen width */
+    padding: 15px 20px 30px; /* Slightly less padding */
+    margin: 30px auto; /* Reduce vertical margin */
+  }
+
+  .car_prices h2 {
+    font-size: 1.6rem; /* Slightly smaller title */
+  }
+
+  .car_prices label {
+    font-size: 0.95rem; /* Smaller label text */
+  }
+
+  .car_prices input[type="text"],
+  .car_prices select {
+    padding: 8px 12px; /* Slightly smaller padding */
+    font-size: 0.95rem; /* Smaller input text */
+  }
+
+  #car-details {
+    padding: 12px 15px; /* Adjust padding */
+    font-size: 0.9rem; /* Smaller text */
+  }
+
+  #car-details h3 {
+    font-size: 1.2rem; /* Smaller subheading */
+  }
+
+  th, td {
+    padding: 6px; /* Reduce table cell padding */
+    font-size: 0.9rem; /* Smaller table text */
+  }
+
+  .suggestions {
+    max-height: 150px; /* Slightly smaller suggestion list height */
+  }
+}
+
+/* Mobile Phones (up to 576px) */
+@media (max-width: 576px) {
+  .car_prices {
+    max-width: 95%; /* Use almost full screen width */
+    padding: 10px 15px 20px; /* Further reduce padding */
+    margin: 20px auto; /* Reduce vertical margin */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.5); /* Lighter shadow */
+  }
+
+  .car_prices h2 {
+    font-size: 1.4rem; /* Smaller title */
+    margin-bottom: 15px; /* Less margin */
+  }
+
+  .car_prices label {
+    font-size: 0.9rem; /* Smaller label text */
+    margin-top: 10px; /* Less top margin */
+    margin-bottom: 4px; /* Less bottom margin */
+  }
+
+  .car_prices input[type="text"],
+  .car_prices select {
+    padding: 7px 10px; /* Smaller padding */
+    font-size: 0.9rem; /* Smaller input text */
+    border-width: 1.5px; /* Slightly thinner border */
+  }
+
+  #car-details {
+    padding: 10px 12px; /* Smaller padding */
+    font-size: 0.85rem; /* Smaller text */
+    min-height: 70px; /* Adjust min-height */
+  }
+
+  #car-details h3 {
+    font-size: 1.1rem; /* Smaller subheading */
+    margin-bottom: 10px; /* Less margin */
+  }
+
+  th, td {
+    padding: 5px; /* Minimal table cell padding */
+    font-size: 0.85rem; /* Smaller table text */
+  }
+
+  .suggestions {
+    max-height: 120px; /* Smaller suggestion list height */
+    font-size: 0.85rem; /* Smaller suggestion text */
+  }
+
+  .suggestions li {
+    padding: 6px 10px; /* Smaller padding for suggestions */
+  }
+
+  .service-details {
+    padding-left: 15px; /* Adjust list padding */
+    font-size: 0.85rem; /* Smaller list text */
+  }
+}
