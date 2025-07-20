@@ -1,67 +1,61 @@
-
 document.addEventListener('DOMContentLoaded', function() {
   const toggleButton = document.getElementById('languageToggle');
   const optionsList = document.getElementById('languageOptions');
   const options = optionsList.querySelectorAll('li');
 
-  // определяем текущий язык по адресу
+  // Language configuration
+  const languages = {
+    en: { flag: '🇬🇧', label: 'English' },
+    fi: { flag: '🇫🇮', label: 'Suomi' },
+    ru: { flag: '🇷🇺', label: 'Русский' }
+  };
+
+  // Determine current language based on pathname
   let currentLang = 'en';
   const path = window.location.pathname;
-  if (path.startsWith('/fi')) {
+  if (path.startsWith('/kostya_website/fi/')) {
     currentLang = 'fi';
-  } else if (path.startsWith('/ru')) {
+  } else if (path.startsWith('/kostya_website/ru/')) {
     currentLang = 'ru';
   }
 
-  // устанавливаем кнопку в актуальное состояние
+  // Update toggle button display
   function updateToggleButton(lang) {
-    let flag = '🇬🇧';
-    let label = 'English';
-
-    if (lang === 'fi') {
-      flag = '🇫🇮';
-      label = 'Suomi';
-    } else if (lang === 'ru') {
-      flag = '🇷🇺';
-      label = 'Русский';
-    }
-
+    const { flag, label } = languages[lang];
     toggleButton.querySelector('.flag').textContent = flag;
     toggleButton.querySelector('.label').textContent = label;
   }
 
+  // Set initial toggle button state
   updateToggleButton(currentLang);
 
-  // открыть/закрыть выпадашку
+  // Toggle dropdown visibility
   toggleButton.addEventListener('click', function() {
     optionsList.classList.toggle('show');
   });
 
-  // клик вне селектора = закрыть
+  // Close dropdown when clicking outside
   document.addEventListener('click', function(e) {
     if (!toggleButton.contains(e.target) && !optionsList.contains(e.target)) {
       optionsList.classList.remove('show');
     }
   });
 
-  // обработка выбора опции
+  // Handle language selection
   options.forEach(function(option) {
     option.addEventListener('click', function() {
       const selectedLang = this.getAttribute('data-lang');
 
-      // обновляем кнопку
+      // Update button
       updateToggleButton(selectedLang);
 
-      // закрываем список
+      // Close dropdown
       optionsList.classList.remove('show');
 
-      // редирект
-      if (selectedLang === 'en') {
-        window.location.href = 'https://rmk-kk.github.io/kostya_website/';
-      } else {
-        window.location.href = 'https://rmk-kk.github.io/kostya_website/' + selectedLang + '/';
-      }
+      // Redirect to selected language page
+      const basePath = '/kostya_website/';
+      const redirectPath = selectedLang === 'en' ? basePath : `${basePath}${selectedLang}/`;
+      window.location.replace(redirectPath);
     });
   });
 });
-
