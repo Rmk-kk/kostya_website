@@ -12,8 +12,8 @@
     <script>
   (function () {
     const path = window.location.pathname;
-    // Skip redirection if already on /fi/ or /ru/
-    if (path.startsWith('/fi/') || path.startsWith('/ru/')) {
+    // Skip redirection if already on /kostya_website/fi/ or /kostya_website/ru/
+    if (path.startsWith('/kostya_website/fi/') || path.startsWith('/kostya_website/ru/')) {
       return;
     }
 
@@ -21,12 +21,12 @@
     const lower = lang.toLowerCase();
 
     if (lower.startsWith('fi')) {
-      window.location.replace('/fi/');
+      window.location.replace('/kostya_website/fi/');
     } else if (lower.startsWith('ru')) {
-      window.location.replace('/ru/');
+      window.location.replace('/kostya_website/ru/');
     } else {
       // Optionally, redirect to default (English) page
-      // window.location.replace('/');
+      // window.location.replace('/kostya_website/');
     }
   })();
 </script>
